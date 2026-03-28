@@ -42,8 +42,10 @@ The circuit functions by sensing the amount of light falling on the LDR and resp
 
 ## EXPECTED OUTPUT:
 ### Schematic diagram
- 
+ <img width="1053" height="573" alt="448393350-2b55482a-0714-4eac-895c-70f966d1d413" src="https://github.com/user-attachments/assets/78c90009-93e8-4d6b-a85c-014738a2d12e" />
+
 ### Layout diagram
- 
+ <img width="1060" height="557" alt="448393482-f9e7a115-747f-433a-a2a5-0249c875406b" src="https://github.com/user-attachments/assets/4648e6b0-02e6-4ef3-a99b-3371dfcb9b18" />
+
 ## RESULT:
 Thus, the schematic and PCB layout for the automatic street light circuit has been successfully designed using Eagle software.
